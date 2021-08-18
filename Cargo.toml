@@ -1,6 +1,6 @@
 [package]
 name = "i3spotify"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 description = "A plugin to add current spotify track information to i3bar "
 readme = "Readme.md"
