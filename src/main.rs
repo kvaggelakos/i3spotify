@@ -8,7 +8,6 @@ use std::time::Duration;
 use dbus::blocking::stdintf::org_freedesktop_dbus::Properties;
 use std::io;
 use json::object;
-use json::array;
 use json::JsonValue::Array;
 
 
