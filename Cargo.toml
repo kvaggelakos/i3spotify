@@ -2,6 +2,11 @@
 name = "i3spotify"
 version = "0.1.0"
 edition = "2018"
+description = "A plugin to add current spotify track information to i3bar "
+readme = "Readme.md"
+repository = "https://github.com/kvaggelakos/i3spotify"
+license = "MIT"
+keywords = ["i3", "i3bar"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
