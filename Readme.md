@@ -6,4 +6,16 @@ This is a rust application to display spotify artist/track information in the i3
 
 ## Installation
 
-TODO:
+To install using cargo:
+
+```
+cargo install i3spotify
+```
+
+Add to i3 config like below:
+
+```
+bar {
+    status_command i3status | i3spotify
+}
+```
